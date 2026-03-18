@@ -29,7 +29,7 @@ const experiences: ExperienceItem[] = [
     area: "md:[grid-area:1/1/2/13] xl:[grid-area:1/1/2/13]",
     icon: <BrainCircuit className="h-5 w-5" />,
     role: "AI/LLM Evaluation Engineer",
-    org: "Handshake AI — Project Hilux",
+    org: "Handshake AI — Project Helix",
     period: "2025 – Present",
     type: "Work",
     accent: "text-indigo-400",

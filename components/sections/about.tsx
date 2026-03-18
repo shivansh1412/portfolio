@@ -38,7 +38,7 @@ export function About() {
                 <span className="text-white font-medium">
                   AI/LLM Evaluation Engineer at Handshake AI
                 </span>{" "}
-                on Project Hilux, and as a 24/7 IT Support Specialist at UITS.
+                on Project Helix, and as a 24/7 IT Support Specialist at UITS.
               </p>
               <p>
                 I specialize in{" "}
